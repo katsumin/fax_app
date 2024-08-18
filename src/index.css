@@ -1,0 +1,23 @@
+.Tenkey {
+    width: 250px;
+    text-align: center;
+  }
+  
+.Tenkey button {
+  font-size: large;
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  margin: 3px;
+  padding: 0;
+}
+
+.doc-view {
+  width: 100%;
+  height: 80vh;
+}
+
+.tiff-view {
+  width: 100%;
+  height: 70vh;
+}
